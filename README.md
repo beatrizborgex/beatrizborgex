@@ -26,7 +26,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h2 align="center">📬 Contact</h2>
+<h2 align="center">📬 Contatos</h2>
 
 <p align="center">
     <strong>Email:</strong> <a href="mailto:beatriz.oliveira5@estudante.ifms.edu.br">beatriz.oliveira5@estudante.ifms.edu.br</a><br/>
