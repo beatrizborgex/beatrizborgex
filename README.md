@@ -1,6 +1,5 @@
 ### ✨ Olá, seja bem-vindo(a) ao meu github! ✨
 
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/beatrizborgex)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/beatrizborgex)
 
 ![Borges GitHub stats](https://github-readme-stats.vercel.app/api?username=beatrizborgex&show_icons=true&theme=onedark)
