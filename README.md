@@ -8,10 +8,10 @@
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=beatrizborgex&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="Borges GitHub stats" width="300"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=beatrizborgex&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="Borges GitHub stats" width="400"/>
 </p>
 
-<h2 align="center">💻 Skills</h2>
+<h3 align="center">💻 Skills</h3>
 
 <p align="center">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
@@ -26,7 +26,7 @@
     <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
-<h2 align="center">📬 Contatos</h2>
+<h3 align="center">📬 Contatos</h3>
 
 <p align="center">
     <strong>Email:</strong> <a href="mailto:beatriz.oliveira5@estudante.ifms.edu.br">beatriz.oliveira5@estudante.ifms.edu.br</a> | 
