@@ -1,14 +1,14 @@
-<h1 align="center">✨ Bem-vindo(a) ao meu GitHub! ✨</h1>
+<h2 align="center">✨ Bem-vindo(a) ao meu GitHub! ✨</h2>
 
 <p align="center">
-    <strong>Conecte-se comigo no LinkedIn:</strong><br/>
+    <strong>Conecte-se comigo no LinkedIn:</strong>
     <a href="https://linkedin.com/in/beatrizborgex">
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
 
 <p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=beatrizborgex&show_icons=true&theme=radical" alt="Borges GitHub stats"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=beatrizborgex&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="Borges GitHub stats" width="300"/>
 </p>
 
 <h2 align="center">💻 Skills</h2>
@@ -29,6 +29,6 @@
 <h2 align="center">📬 Contatos</h2>
 
 <p align="center">
-    <strong>Email:</strong> <a href="mailto:beatriz.oliveira5@estudante.ifms.edu.br">beatriz.oliveira5@estudante.ifms.edu.br</a><br/>
+    <strong>Email:</strong> <a href="mailto:beatriz.oliveira5@estudante.ifms.edu.br">beatriz.oliveira5@estudante.ifms.edu.br</a> | 
     <strong>Email Alternativo:</strong> <a href="mailto:beatrizoficialtato@hotmail.com">beatrizoficialtato@hotmail.com</a>
 </p>
