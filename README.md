@@ -14,7 +14,7 @@ Atualmente estou focada em aprimorar meus conhecimentos nas tecnologias que irei
 <p align="center">
 💡 Além disso, trago uma sólida base técnica adquirida ao longo de <strong>5 anos de Engenharia de Computação</strong>, onde tive contato direto com:
 <br/>
-<strong>PostgreSQL</strong>, <strong>C</strong>, <strong>C++</strong> e o ambiente <strong>Linux</strong>.
+<strong>SQL</strong>, <strong>C</strong>, <strong>Pyhton</strong>, <strong>Linux</strong>, <strong>JavaScript</strong>, entre outras.
 <br/><br/>
 Embora ainda não graduada formalmente, finalizei todas as disciplinas do curso e estou atualmente na fase final — <em>prestes a entregar o TCC</em> para conclusão do curso.
 </p>
