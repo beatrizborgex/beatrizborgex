@@ -14,8 +14,15 @@ Atualmente estou focada em aprimorar meus conhecimentos nas tecnologias que irei
 <p align="center">
 💡 Além disso, trago uma sólida base técnica adquirida ao longo de <strong>5 anos de Engenharia de Computação</strong>, onde tive contato direto com:
 <br/>
-<strong>SQL</strong>, <strong>C</strong>, <strong>Pyhton</strong>, <strong>Linux</strong>, <strong>JavaScript</strong>, entre outras.
-<br/><br/>
+<p align="center">
+    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
+    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
+    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
+    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+</p>
+<br/>
 Embora ainda não graduada formalmente, finalizei todas as disciplinas do curso e estou atualmente na fase final — <em>prestes a entregar o TCC</em> para conclusão do curso.
 </p>
 
@@ -51,17 +58,6 @@ O projeto **Pokédex** representa minha jornada prática de migração para o de
     <a href="https://linkedin.com/in/beatrizborgex"> <br/>
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
-</p>
-
-<h3 align="center">💻 Ferramentas|Tecnologias</h3>
-
-<p align="center">
-    <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
-    <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
-    <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
-    <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
-    <img alt="JavaScript" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 </p>
 
 ---
