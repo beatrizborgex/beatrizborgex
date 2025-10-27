@@ -47,7 +47,7 @@ O projeto **Pokédex** representa minha jornada prática de migração para o de
 ---
 
 <p align="center">
-    <strong>Conecte-se comigo no LinkedIn:</strong>
+    <strong>Conecte-se comigo no LinkedIn:</strong> <br/>
     <a href="https://linkedin.com/in/beatrizborgex"> <br/>
         <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
