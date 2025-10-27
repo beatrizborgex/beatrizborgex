@@ -53,10 +53,6 @@ O projeto **Pokédex** representa minha jornada prática de migração para o de
     </a>
 </p>
 
-<p align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=beatrizborgex&show_icons=true&theme=radical&hide_title=true&hide_border=true&count_private=true&include_all_commits=true" alt="Borges GitHub stats" width="400"/>
-</p>
-
 <h3 align="center">💻 Ferramentas|Tecnologias</h3>
 
 <p align="center">
