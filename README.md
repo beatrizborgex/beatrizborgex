@@ -16,7 +16,6 @@ Atualmente estou focada em aprimorar meus conhecimentos nas tecnologias que irei
 <br/>
 <p align="center">
     <img alt="Linux" src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-    <img alt="Windows" src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"/>
     <img alt="C" src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
     <img alt="Python" src="https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white"/>
     <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
@@ -41,6 +40,7 @@ Embora ainda não graduada formalmente, finalizei todas as disciplinas do curso 
 ### 🎯 **Pokédex**
 
 O projeto **Pokédex** representa minha jornada prática de migração para o desenvolvimento **FrontWeb**, explorando conceitos modernos de desenvolvimento com **Vue.js**, **Tailwind CSS** e **consumo de APIs REST**.  
+Este projeto faz parte do meu processo de **avaliação profissional** na transição para a área FrontWeb. 
 
 🧩 **Principais Aprendizados:**
 - Criação de componentes reutilizáveis com Vue 3 (Composition API)  
@@ -48,9 +48,6 @@ O projeto **Pokédex** representa minha jornada prática de migração para o de
 - Filtragem e busca dinâmica de Pokémons  
 - Organização de projeto com Vite  
 - Estilização responsiva utilizando Tailwind CSS  
-
-📌 Este projeto faz parte do meu processo de **avaliação profissional** na transição para a área FrontWeb.
-
 ---
 
 <p align="center">
@@ -62,7 +59,7 @@ O projeto **Pokédex** representa minha jornada prática de migração para o de
 
 ---
 
-<h3 align="center">📬Contato</h3>
+<h3 align="center">Contato</h3>
 
 <p align="center">
     <strong>Email:</strong> <a href="mailto:beatriz.oliveira5@estudante.ifms.edu.br">beatriz.oliveira5@estudante.ifms.edu.br</a> | 
