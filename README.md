@@ -15,9 +15,7 @@ Base técnica (Eng. de Computação)
 
 
 <div align="center">
-🔗 Onde me encontrar
+<p align="center">🔗 Onde me encontrar</p>
 📧 Email: beatriz.oliveira5@estudante.ifms.edu.br
-
 📧 Alternativo: beatrizoficialtato@hotmail.com
-
 </div>
