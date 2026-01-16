@@ -7,9 +7,9 @@
 ### Sobre mim
 
 Atuei por 1 ano como QA, onde desenvolvi uma visão de qualidade, testes e processos ágeis.
-Recentemente iniciei como desenvolvedora web, atuando especialmente com **Vue**, **Nuxt** e **Tailwind**, com foco em **construção de componentes**, **design system** e **boas práticas de UI**.
+Recentemente iniciei como desenvolvedora web, atuando especialmente com **Vue**, **Nuxt** e **Tailwind**, com foco em construção de componentes, design system e boas práticas de UI.
 
-Sou estudante de **Engenharia de Computação** (todas as disciplinas concluídas) e estou atualmente na fase final: **entrega do TCC**.
+Sou estudante de Engenharia de Computação (todas as disciplinas concluídas) e estou atualmente na fase de entrega do TCC.
 
 ---
 
