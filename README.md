@@ -1,15 +1,15 @@
 ## Beatriz Borges
 
-### Desenvolvedora web
+### Desenvolvedora Web Júnior
 
 ---
 
 ### Sobre mim
 - Formada em Engenharia de Computação pelo Instituto Federal de Mato Grosso do Sul (IFMS)
 
-- Iniciei minha trajetória na área de tecnologia como QA, onde atuei por um ano, desenvolvendo uma visão sólida de qualidade de software, testes e metodologias ágeis.
+- Iniciei minha trajetória na área de tecnologia como QA, onde atuei por um ano, desenvolvendo a visão de qualidade de software, testes e metodologias ágeis.
 
-- Atualmente sou Desenvolvedora Web Júnior, trabalhando com Vue, Nuxt, TypeScript e Tailwind CSS, com foco no desenvolvimento de interfaces modernas, construção de componentes reutilizáveis, Design Systems e aplicação de princípios de Clean Code e outras boas práticas de desenvolvimento front-end.
+- Atualmente sou Desenvolvedora Web Júnior, trabalhando com Vue, Nuxt, TypeScript e Tailwind CSS, com foco no desenvolvimento de interfaces modernas, construção de componentes reutilizáveis, Design Systems, aplicação de princípios de Clean Code e outras boas práticas de desenvolvimento front.
 ---
 
 <p align="center">
