@@ -6,10 +6,11 @@
 
 ### Sobre mim
 
-Atuei por 1 ano como QA, onde desenvolvi uma visão de qualidade, testes e processos ágeis.
-Recentemente iniciei como desenvolvedora web, atuando com tecnologias como **TypeScript**, **Vue**, **Nuxt** e **Tailwind**, com foco em construção de componentes, design system e boas práticas de UI.
+Iniciei minha trajetória na área de tecnologia como QA, onde atuei por um ano, desenvolvendo uma visão sólida de qualidade de software, testes e metodologias ágeis.
 
-Sou estudante de Engenharia de Computação (todas as disciplinas concluídas) e estou atualmente na fase de entrega do TCC.
+Atualmente sou Desenvolvedora Web Júnior, trabalhando com Vue, Nuxt, TypeScript e Tailwind CSS, com foco no desenvolvimento de interfaces modernas, construção de componentes reutilizáveis, Design Systems e aplicação de princípios de Clean Code e outras boas práticas de desenvolvimento front-end.
+
+Sou formada em Engenharia de Computação pelo Instituto Federal de Mato Grosso do Sul (IFMS) e busco evoluir continuamente em desenvolvimento front-end, arquitetura de software e engenharia de software.
 
 ---
 
