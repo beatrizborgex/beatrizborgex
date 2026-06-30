@@ -5,13 +5,11 @@
 ---
 
 ### Sobre mim
+- Formada em Engenharia de Computação pelo Instituto Federal de Mato Grosso do Sul (IFMS)
 
-Iniciei minha trajetória na área de tecnologia como QA, onde atuei por um ano, desenvolvendo uma visão sólida de qualidade de software, testes e metodologias ágeis.
+- Iniciei minha trajetória na área de tecnologia como QA, onde atuei por um ano, desenvolvendo uma visão sólida de qualidade de software, testes e metodologias ágeis.
 
-Atualmente sou Desenvolvedora Web Júnior, trabalhando com Vue, Nuxt, TypeScript e Tailwind CSS, com foco no desenvolvimento de interfaces modernas, construção de componentes reutilizáveis, Design Systems e aplicação de princípios de Clean Code e outras boas práticas de desenvolvimento front-end.
-
-Sou formada em Engenharia de Computação pelo Instituto Federal de Mato Grosso do Sul (IFMS) e busco evoluir continuamente em desenvolvimento front-end, arquitetura de software e engenharia de software.
-
+- Atualmente sou Desenvolvedora Web Júnior, trabalhando com Vue, Nuxt, TypeScript e Tailwind CSS, com foco no desenvolvimento de interfaces modernas, construção de componentes reutilizáveis, Design Systems e aplicação de princípios de Clean Code e outras boas práticas de desenvolvimento front-end.
 ---
 
 <p align="center">
