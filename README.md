@@ -9,7 +9,7 @@
 
 - Iniciei minha trajetória na área de tecnologia como QA, onde atuei por um ano, desenvolvendo a visão de qualidade de software, testes e metodologias ágeis.
 
-- Atualmente sou Desenvolvedora Web Júnior, trabalhando com Vue, Nuxt, TypeScript e Tailwind CSS, com foco no desenvolvimento de interfaces modernas, construção de componentes reutilizáveis, Design Systems, aplicação de princípios de Clean Code e outras boas práticas de desenvolvimento front.
+- Após 1 ano como QA, iniciei como Desenvolvedora Web Júnior, trabalhando com Vue, Nuxt, TypeScript e Tailwind CSS, com foco no desenvolvimento de interfaces, construindo componentes reutilizáveis, design systems, aplicação de princípios de Clean Code e outras boas práticas de desenvolvimento front.
 ---
 
 <p align="center">
@@ -31,5 +31,5 @@
 
 ### Onde me encontrar
 
-📧 **Email:** [beatrizoficialtato@hotmail.com](mailto:beatrizoficialtato@hotmail.com) <br>
+📧 **Email:** [biaborgex@gmail.com](mailto:biaborgex@gmail.com) <br>
 🔗 **LinkedIn:** [linkedin.com/in/beatrizborgex](https://linkedin.com/in/beatrizborgex)
