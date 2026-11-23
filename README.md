@@ -7,9 +7,9 @@
 ### Sobre mim
 - Formada em Engenharia de Computação pelo Instituto Federal de Mato Grosso do Sul (IFMS)
 
-- Iniciei minha trajetória na área de tecnologia como QA, onde atuei por um ano, desenvolvendo a visão de qualidade de software, testes e metodologias ágeis.
+- Em 2024 iniciei minha trajetória na área de tecnologia como estagiária QA, onde posteriormente me efetivei e atuei por um ano, desenvolvendo a visão de qualidade de software, testes e metodologias ágeis.
 
-- Após 1 ano como QA, iniciei como Desenvolvedora Web Júnior, trabalhando com Vue, Nuxt, TypeScript e Tailwind CSS, com foco no desenvolvimento de interfaces, construindo componentes reutilizáveis, design systems, aplicação de princípios de Clean Code e outras boas práticas de desenvolvimento front.
+- Após 1 ano como QA, iniciei como Desenvolvedora Web Júnior na mesma empresa, trabalhando com Vue, Nuxt, TypeScript e Tailwind CSS, com foco no desenvolvimento de interfaces, construindo componentes reutilizáveis, design systems, aplicação de princípios de Clean Code e outras boas práticas de desenvolvimento front.
 ---
 
 <p align="center">
