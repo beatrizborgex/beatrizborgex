@@ -1,6 +1,6 @@
 ## Beatriz Borges
 
-### Desenvolvedora Web Júnior
+### Engenheira de Computação
 
 ---
 
